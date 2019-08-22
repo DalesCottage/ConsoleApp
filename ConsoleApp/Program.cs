@@ -49,7 +49,7 @@ namespace ConsoleApp
                     //};
 
                     //session.Save(person1);
-                    //session.Save(person2); hhhj
+                    //session.Save(person2); hhhjkkk
                     //tr.Commit();
 
                     // read code 
